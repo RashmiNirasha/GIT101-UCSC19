@@ -1,12 +1,9 @@
-# My Name
-Milinda Shehan
+# Milinda Shehan
 
-## University and Degree Program
-Bachelor of Science in Computer Science , University of Colombo School of Computing
 
-## Registration Number and Index Number
-Registration Number: 2021/CS/052
-Index Number: 21000522
+**Degree Program & University** : Bachelor of Science in Computer Science , University of Colombo School of Computing </br>
+**Registration Number** : 2021/CS/052 </br>
+**Index Number** : 21000522
 
 ## LinkedIn URL
 [LinkedIn](https://www.linkedin.com/in/milinda-shehan)
